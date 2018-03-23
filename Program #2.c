@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int sum(int a, int b) {
+float sum(float a, float b) {
     return a + b;
 }
 
